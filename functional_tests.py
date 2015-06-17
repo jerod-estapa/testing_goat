@@ -1,6 +1,7 @@
 #! usr/local/bin/python3
 
 from selenium import webdriver
+import unittest
 
 browser = webdriver.Firefox()
 
